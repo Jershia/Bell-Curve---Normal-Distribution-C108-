@@ -3,7 +3,7 @@
   * *Most of the graphs follow normal distribution.*
 ### Steps To Form A bell curve or normal distribution
   * *We visited random.org site and rolled the dice multiple times and recorded the different sums in a file.*
-  * *We need to import pandas,csv and figure_factory from plotly.*
+  * *We have imported pandas,csv and figure_factory from plotly.*
   * *We wrote python code to get the random dice numbers 100 times and store in a list.*
   * *Using plotly express we plotted the list on the bar graph*
   * *We have created two lists,count and dice* 
