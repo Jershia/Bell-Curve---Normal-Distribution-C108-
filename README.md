@@ -1,7 +1,9 @@
 # Bell Curve-C108
-  * *we learned about the bell curve - normal distribution and how to plot it.*
+ ### *Learnt About*
+  * *We learned about the bell curve - normal distribution and how to plot it.*
   * *Most of the graphs follow normal distribution.*
-### Steps To Form A bell curve or normal distribution
+  * *In python,arrays means lists.* 
+### *Steps To Form A bell curve or normal distribution*
   * *We visited random.org site and rolled the dice multiple times and recorded the different sums in a file.*
   * *We have imported pandas,csv and figure_factory from plotly.*
   * *We wrote python code to get the random dice numbers 100 times and store in a list.*
